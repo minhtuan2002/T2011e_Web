@@ -1,0 +1,43 @@
+body{
+    background-color: #fafafa
+    background-color: green;
+    background-image: url("../imgs/img_2.png");
+    /* đi sang: tên thư mục/file
+    đi xuống: /
+    đi lên:../
+     */
+    background-repeat: no-repeat; /* repeat repeat-x repeat-y */
+    background-size: cover; /* cover contain*/
+}
+
+h1 {
+    color: #9632FF90;
+rgba(150, 50, 255, 0.1) font-size: 50 px;
+    line-height: 1.5;
+    text-align: center;
+    border:10px solid green;/* dotted,dashed*/
+    /*broder-top:1px solid green;*/
+    /*broder-bottom:1px solid green;*/
+    /*broder-left:1px solid green;*/
+    /*broder-right:1px solid green;*/
+}
+p {
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center /*justify left*/;
+    width: 800px;
+    text-transform: none; /* capitallize lowercase capitalize*/
+    text-decoration: none; /*underline line-through overline */;
+    font-family: Arial;
+    font-weight: 700; /* thin-100 light 300 normal 400 medium 500 semi-bold 600 bold 700 extra-bold 800 black900*/
+
+}
+img {
+    max-width: 100%;
+    /* text-align: center;*/
+}
+
+
+
+
+}
