@@ -1,0 +1,24 @@
+h3 {
+    color: red:;:;;
+    background-color: #fafafa;
+    /*background-image: url("../imgs/81YDuTWSHyL.png");*/
+    background-repeat: no-repeat; /*repeat no-repeat repeat-x repeat-y*/
+    background-size: contain; /*cover contain */
+    text-align: center;
+    padding-bottom: 100px;
+    margin-top: -100px;
+}
+h1 {
+    color: red;
+}
+p{
+    font-size: 14px;
+    font-weight: 400;
+
+
+    }
+
+
+
+}
+

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo jquery2</title>
+    <link rel="stylesheet" href="libs/boostrap3.4.1/css/bootstrap.css">
+</head>
+<body>
+<section class="col-md-12">
+    <div class="container">
+        <button type="button" class="btn btn-default" onclick="showOn()">ON</button>
+        <button type="button" class="btn btn-default" onclick="showOff()">OFF</button>
+        <button type="button" class="btn btn-default on-off">ON/OFF</button>
+    </div>
+</section>
+<section class="col-md-12">
+    <div class="container">
+        <form action="#" method="get" class="login">
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control" name="email" placeholder="Email"/>
+            </div>
+            <div class="form-group">
+                <label>Username</label>
+                <input class="form-control" name="username" placeholder="Username"/>
+            </div>
+        </form>
+    </div>
+</section>
+<script src="libs/jquery/jquery-3.5.1.min.js"></script>
+<script type="text/javascript">
+    var onoff = $(".on-off");
+    onoff.bind("click",showOnOff);
+    function showOn() {
+        var lg = $(".login");
+        // lg.show();
+        // lg.fadeIn();
+        lg.slideDown();
+    }
+    function showOff() {
+        var lg = $(".login");
+        lg.hide();
+        // lg.fadeOut();
+        // lg.slideUp();
+    }
+    var flag = true;
+    var x = 0;
+    function showOnOff() {
+        var lg = $(".login");
+        // lg.toggle();
+        // lg.fadeToggle(200);
+        // lg.slideToggle();
+        if(flag){
+            x+=30;
+            lg.animate({
+                "margin":x+"px"
+            },40);
+
+            flag= false;
+        }else{
+            lg.animate({
+                "margin":"0px"
+            },400);
+            flag= true;
+        }
+
+    }
+</script>
+</body>
+</html>

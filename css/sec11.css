@@ -1,0 +1,245 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color:#222222;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: 'Open Sans';
+    background-color: #fafafa;
+}
+.page {
+    background-image: url("../imgs/img_46.png");
+    background-size: cover;
+    height: 500px;
+    margin-top: 0;
+    margin-top: -20px;
+
+}
+.page img{
+    float: left;
+    margin-top: -95px;
+
+}
+.input {
+    float: right;
+    margin-right: -1000px;
+    margin-top: -95px;
+}
+
+.tren1 {
+    text-align: center;
+    color: white;
+    height: 150px;
+}
+.tren2{
+    float: right;
+    margin-right: 500px;
+    margin-top: 358px;
+    text-align: center;
+    display: flex;
+}
+.tren3{
+
+    margin-top: -20px;
+    font-weight: bold;
+    background-color: #3c763d;
+
+}
+.tren4 {
+    margin-top: -20px;
+    background-image: url("../imgs/img_37.png");
+}
+.tren4 p {
+    width: 750px;
+    float: right;
+    font-weight: bold;
+    font-size: 20px;
+}
+.tren4 img:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.giua{
+    background-color: #a6e1ec;
+    margin-top: -20px;
+}
+.giua2{
+    background-color:  #151515;
+    color: white;
+    margin-top: -20px;
+}
+.giua2 img:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.top{
+    background-color: #3c763d;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.duoi1 {
+    margin-right: 500px;
+    width: 650px;
+    margin-top: 20px;
+    margin-top: -20px;
+}
+.duoi1 img:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.duoi2{
+    margin-left: 751px;
+    width: 650px;
+    margin-top: -480px;
+    
+}
+.duoi2 img:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.duoi3 {
+    margin-right: 500px;
+    width: 650px;
+
+}
+.duoi3 img:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.duoi4 {
+    margin-left: 751px;
+    width: 650px;
+    margin-top: -460px;
+}
+.duoi4 img:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.cuoi1   {
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    margin: 0 150px;
+    padding: 9px;
+    background-color: white;
+    border: 3px solid ;
+    box-shadow: 2px 2px 50px #3c763d;
+}
+.cuoi1 img {
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+}
+.shop1:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.shop2:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.shop3:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.shop4:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.shop5:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.cuoi2 {
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    margin: 0 150px;
+    padding: 9px;
+    background-color: white;
+    border: 3px solid;
+}
+.cuoi2 img {
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+}
+
+.shop6:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.shop7:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.shop8:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.shop9:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+.shop10:hover{
+    transform: skew(20deg);
+    background-color: #3c763d;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+
+
+

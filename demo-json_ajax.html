@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo ajax json</title>
+    <link rel="stylesheet" href="libs/boostrap3.4.1/css/bootstrap.css">
+</head>
+<body>
+<section class="col-md-12">
+    <div class="container">
+        <div class="row ds_sanpham">
+
+
+        </div>
+    </div>
+</section>
+
+<script src="libs/jquery/jquery-3.5.1.min.js"></script>
+<script type="text/javascript">
+    function loadData() {
+        $.ajax({
+            url:"https://foodgroup.herokuapp.com/api/today-special",
+            method:"get",
+            data:{},
+            success:function (rs) {
+                var sp_arr = rs.data;
+                for(var i=0;i<sp_arr.length;i++){
+                    var x = "<div class=\"col-md-4\">\n" +
+                            "                <div class=\"item\">\n" +
+                             "                   <img src=\""+sp_arr[i].image+"\" width=\"200\"/>\n" +
+                              "                  <h2>"+sp_arr[i].name+"</h2>\n" +
+                               "                <p>"+sp_arr[i].price+"</p>\n" +
+                                "            </div>\n" +
+                                 "       </div>";// giao dien tao ra cho 1 sp
+                    $(".ds_sanpham").append(x);
+
+                }
+            }
+        })
+    }
+    loadData();
+</script>
+</body>
+</html>

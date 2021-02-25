@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo event</title>
+    <link rel="stylesheet" href="css/demo_event.css">
+</head>
+<body>
+<div class="col-md-12">
+    <div class="container">
+        <div id="box" onclick="showEvent1()" onmouseenter="showEvent1()" onmouseleave="showEvent2()"
+             onmouseover="showEvent1()" onmouseout="showEvent2()" ondrag="showEvent1()">
+            <h1 id="number">0</h1>
+        </div>
+        <p oncopy="showEvent1()" oncut="showEvent2()" onpaste="showEvent1()">Công tác chuẩn bị hoàn tất, an ninh được thắt chặt khi chỉ còn vài giờ sẽ diễn ra lễ nhậm chức của Tổng thống đắc cử Biden.
+        </p>
+    </div>
+</div>
+<div class="col-md-12">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <form action="#" method="get">
+                    <div class="form-group">
+                        <label>Email</label>
+                        <!--                        <input type="email" id="input-email" onkeydown="changeEmail()" name="email" placeholder="Email" class="form-control"/>-->
+                        <input type="email" id="input-email" onkeyup="changeEmail(this)" name="email" placeholder="Email" class="form-control"/>
+                        <!--                        <input type="email" id="input-email" onkeypress="changeEmail()" name="email" placeholder="Email" class="form-control"/>-->
+                    </div>
+                    <div class="form-group">
+                        <label>Name</label>
+                        <input type="text" onkeyup="changeName(this)" name="name" placeholder="Name" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label>Mô tả bản thân</label>
+                        <textarea onkeyup="changeDesc(this)" rows="5" name="mota" placeholder="Mô tả bản thân" class="form-control"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <h1>Email: <span id="txtemail"></span></h1>
+                <h1>Name: <span id="txtname"></span></h1>
+                <h2>Mô tả: <span id="txtdes"></span></h2>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var email = "";
+    var name = "";
+    var mota = "";
+    function changeEmail(e) {
+        email = e.value;
+        // e.style.backgroundColor = "red";
+        // var x = document.getElementById("input-email");
+        document.getElementById("txtemail").innerText = email;
+    }
+    function changeName(e) {
+        name = e.value;
+        document.getElementById("txtname").innerText = name;
+    }
+    function changeDesc(e) {
+        mota = e.value;
+        document.getElementById("txtdes").innerText = mota;
+    }
+    var x = 0;
+    var number = document.getElementById("number");
+    function showEvent1() {
+        x++;
+        number.innerText = x;
+    }
+    function showEvent2() {
+        x--;
+        number.innerText = x;
+    }
+</script>
+
+</body>
+</html>

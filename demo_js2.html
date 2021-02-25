@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo_js2</title>
+</head>
+<body>
+    <script type="text/javascript">
+        var ob = {
+            name: "tuan",
+            age: 18,
+            address:"8 tôn that thuyết, cầu giấy ,hn,",
+            danhachnguoiyeu:[],
+            run: function (){
+                console.log(ob.name+"tuấn đang chạy...");
+            }
+        }
+        ob.run();
+        ob.name = "tùng";
+        console.log("ten: "+ob.name);
+        ob.run();
+        ob.danhsachnguoiyeu.push("loan");
+        ob.danhsachnguoiyeu.push("linh");
+        console.log(ob.danhsachnguoiyeu);
+        var ob2 = {
+            age: 18,
+            address: "8 tôn thất thuyết, cầu giấy, hn",
+            danhachnguoiyeu: [],
+            run: function (){
+                console.log(this.name+" đang chạy...");
+            }
+        }
+        ob2.run();
+        ob2.name = "lan";
+
+    </script>
+</body>
+</html>
