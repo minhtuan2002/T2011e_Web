@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db7c67f-8028-4577-b178-de397b3a36c6" name="Default Changelist" comment="up code" />
+    <list default="true" id="2db7c67f-8028-4577-b178-de397b3a36c6" name="Default Changelist" comment="up code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +112,7 @@
       <workItem from="1614270216684" duration="366000" />
       <workItem from="1614270598272" duration="54000" />
       <workItem from="1614325569826" duration="2352000" />
-      <workItem from="1614337381955" duration="7412000" />
+      <workItem from="1614337381955" duration="8263000" />
     </task>
     <task id="LOCAL-00001" summary="up code lan dau">
       <created>1608895130222</created>
@@ -147,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614344667188</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="up post l1">
+      <created>1614345057672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614345057672</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +180,8 @@
     <MESSAGE value="up code" />
     <MESSAGE value="tuấn" />
     <MESSAGE value="up post l1" />
-    <option name="LAST_COMMIT_MESSAGE" value="up post l1" />
+    <MESSAGE value="up post l2" />
+    <option name="LAST_COMMIT_MESSAGE" value="up post l2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
