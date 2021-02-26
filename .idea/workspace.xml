@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2db7c67f-8028-4577-b178-de397b3a36c6" name="Default Changelist" comment="up code" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/css/sec11.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo_jquery.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/demo-jquery2.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1m98pnXmxIuBuoLbRLHfPXGLlcU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\T2011e_Web_demo\imgs" />
+      <recent name="D:\T2011e_Web_demo\libs" />
+      <recent name="D:\T2011e_Web_demo\libs\boostrap3.4.1" />
+      <recent name="D:\T2011e_Web_demo\libs\fontawesome5.15" />
+      <recent name="D:\T2011e_Web_demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\T2011e_Web_demo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db7c67f-8028-4577-b178-de397b3a36c6" name="Default Changelist" comment="" />
+      <created>1608894631354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608894631354</updated>
+      <workItem from="1608894633042" duration="10002000" />
+      <workItem from="1609135918193" duration="75000" />
+      <workItem from="1609136001613" duration="11109000" />
+      <workItem from="1609292863421" duration="6283000" />
+      <workItem from="1609299209788" duration="811000" />
+      <workItem from="1609738060630" duration="599000" />
+      <workItem from="1609756582827" duration="10938000" />
+      <workItem from="1609769110913" duration="523000" />
+      <workItem from="1609858770700" duration="4059000" />
+      <workItem from="1609917418866" duration="27000" />
+      <workItem from="1609928987955" duration="13391000" />
+      <workItem from="1610094338009" duration="11423000" />
+      <workItem from="1610203831881" duration="2517000" />
+      <workItem from="1610346226323" duration="21098000" />
+      <workItem from="1610467422594" duration="6005000" />
+      <workItem from="1610534388168" duration="383000" />
+      <workItem from="1610698402707" duration="4251000" />
+      <workItem from="1610707480321" duration="11295000" />
+      <workItem from="1610967779839" duration="5240000" />
+      <workItem from="1611110439164" duration="20836000" />
+      <workItem from="1611158058662" duration="2188000" />
+      <workItem from="1611288885028" duration="11616000" />
+      <workItem from="1611468305811" duration="3700000" />
+      <workItem from="1611571875704" duration="9777000" />
+      <workItem from="1611677954729" duration="2396000" />
+      <workItem from="1611744381950" duration="8545000" />
+      <workItem from="1611839627358" duration="623000" />
+      <workItem from="1611878896763" duration="4509000" />
+      <workItem from="1613393588241" duration="12314000" />
+      <workItem from="1613569084624" duration="2278000" />
+      <workItem from="1613665257488" duration="4455000" />
+      <workItem from="1613994174647" duration="139000" />
+      <workItem from="1613999461031" duration="27000" />
+      <workItem from="1613999511894" duration="30000" />
+      <workItem from="1614059660307" duration="3793000" />
+      <workItem from="1614091354320" duration="429000" />
+      <workItem from="1614092309882" duration="319000" />
+      <workItem from="1614093758731" duration="308000" />
+      <workItem from="1614143481719" duration="736000" />
+      <workItem from="1614270216684" duration="366000" />
+      <workItem from="1614270598272" duration="54000" />
+      <workItem from="1614325569826" duration="2352000" />
+      <workItem from="1614337381955" duration="7412000" />
+    </task>
+    <task id="LOCAL-00001" summary="up code lan dau">
+      <created>1608895130222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608895130222</updated>
+    </task>
+    <task id="LOCAL-00002" summary="up code lan dau2">
+      <created>1608896190602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608896190602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="up code">
+      <created>1608902711591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608902711591</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tuấn">
+      <created>1614270354243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614270354243</updated>
+    </task>
+    <task id="LOCAL-00005" summary="up post l1">
+      <created>1614344667188</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614344667188</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up code lan dau" />
+    <MESSAGE value="up code lan dau2" />
+    <MESSAGE value="up code" />
+    <MESSAGE value="tuấn" />
+    <MESSAGE value="up post l1" />
+    <option name="LAST_COMMIT_MESSAGE" value="up post l1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/demojs1.html</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/demo_jquery.html</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
