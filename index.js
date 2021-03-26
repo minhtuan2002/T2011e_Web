@@ -10,4 +10,9 @@ app.listen(5000,function () {
     app.get("/", function (reg, res) {
         res.send("xin chao");
     });
-}
+
+    // tao 1 routing chuyen dua ra danh sach khach hang
+    app.get("/danh _sach_khach_hang", function (reg, res) {
+        res.send("Day la danh sach:");
+    });
+
