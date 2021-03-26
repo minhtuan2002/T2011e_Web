@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a3567fe-1971-47e5-b795-4400cd78ac33" name="Default Changelist" comment="up code lần 1">
-      <change afterPath="$PROJECT_DIR$/hehe.html" afterDir="false" />
-    </list>
+    <list default="true" id="2db7c67f-8028-4577-b178-de397b3a36c6" name="Default Changelist" comment="up code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,21 +147,7 @@
       <option name="project" value="LOCAL" />
       <updated>1614344667188</updated>
     </task>
-    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1616757385662</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1616757385662</updated>
-    </task>
-    <task id="LOCAL-00007" summary="up code lần 1">
-      <created>1616757531079</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1616757531079</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,10 +171,7 @@
     <MESSAGE value="up code" />
     <MESSAGE value="tuấn" />
     <MESSAGE value="up post l1" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <MESSAGE value="lan 1" />
-    <MESSAGE value="up code lần 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="up code lần 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="up post l1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
