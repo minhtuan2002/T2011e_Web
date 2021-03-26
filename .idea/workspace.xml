@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db7c67f-8028-4577-b178-de397b3a36c6" name="Default Changelist" comment="up code" />
+    <list default="true" id="2a3567fe-1971-47e5-b795-4400cd78ac33" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/html20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html14.html" beforeDir="false" afterPath="$PROJECT_DIR$/html14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html19.html" beforeDir="false" afterPath="$PROJECT_DIR$/html19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/img_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/img_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
