@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db7c67f-8028-4577-b178-de397b3a36c6" name="Default Changelist" comment="up code" />
+    <list default="true" id="2a3567fe-1971-47e5-b795-4400cd78ac33" name="Default Changelist" comment="up code lần 1">
+      <change afterPath="$PROJECT_DIR$/css/sec22.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/log_in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/regis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,7 +71,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2db7c67f-8028-4577-b178-de397b3a36c6" name="Default Changelist" comment="" />
+      <changelist id="2a3567fe-1971-47e5-b795-4400cd78ac33" name="Default Changelist" comment="up code lần 1" />
       <created>1608894631354</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -111,6 +119,7 @@
       <workItem from="1614270598272" duration="54000" />
       <workItem from="1614325569826" duration="2352000" />
       <workItem from="1614337381955" duration="7412000" />
+      <workItem from="1616810507534" duration="8299000" />
     </task>
     <task id="LOCAL-00001" summary="up code lan dau">
       <created>1608895130222</created>
@@ -147,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614344667188</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="up code lần 1">
+      <created>1616757716642</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616757716642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +187,8 @@
     <MESSAGE value="up code" />
     <MESSAGE value="tuấn" />
     <MESSAGE value="up post l1" />
-    <option name="LAST_COMMIT_MESSAGE" value="up post l1" />
+    <MESSAGE value="up code lần 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="up code lần 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
